@@ -1,0 +1,5 @@
+{
+  "name": "JEE Study Tracker",
+  "description": "A high-performance, dark-mode study accountability application for JEE students. Features real-time task tracking, competitive leaderboards, and detailed analytics with complete transparency among peers.",
+  "requestFramePermissions": []
+}
